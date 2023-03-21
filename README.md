@@ -1,5 +1,5 @@
 # 源亜ゴシックについて
-この源亜(げんあ) UD明朝は、Amazon Kindle Paperwhite/Oasis上で[Noto Sans CJK JP](https://github.com/notofonts/noto-cjk)を極力適用する為に改良をしたものです。  
+この源亜(げんあ) ゴシックは、Amazon Kindle Paperwhite/Oasis上で[Noto Sans CJK JP](https://github.com/notofonts/noto-cjk)を極力適用する為に改良をしたものです。  
 Kindleには \\\\Kindle\\fonts フォルダに外部フォントを配置することで、組み込み以外のフォントを使用できる機能が公式に備わっています。  
 しかし、組み込み以外のフォントを使用した場合、フォントが斜体のグリフを持っていなければ標準体フォントを参照する仕様があり、これを回避するために源亜フォントを作成しました。  
 PC、スマートフォン等、他の端末でも使用できますが、これらの端末は自身で標準体を斜体に見せかける機能があるため、このフォントを使用するメリットはありません。
